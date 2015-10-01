@@ -1,5 +1,14 @@
-Registros funcionles: (tareas)
-Son aquellos que son funcionles para el sistema.
+Requisitos funcionles: (tareas)
 
-Registros no funcionales:
-Son aquello que no tienen que ver con las funciones del sistema, rapidez, productividad y eficiencia
+-Son aquellos que son funcionles para el sistema.
+
+
+Requitos no funcionales:
+
+-Son aquello que no tienen que ver con las funciones del sistema, rapidez, productividad y eficiencia
+
+-Son aquello que dicen el comportamiento o con que cracteristicas van a actuar los requisitos funcionales.
+o
+-Especifican la forma de relizr los requitos funcionles. 
+
+-Se refiere mas que nada a la calidad
