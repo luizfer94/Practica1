@@ -1,0 +1,10 @@
+Un aso de uso, define un escenario que puede definir un requisito o un conjunto de requisitos
+
+ethnograpia
+es el observar como se trabaja o cuales son los pasos para realizar un proceso y determinar como se lleva acabo.
+
+Como se valida un requisito?
+-ir con el cliente, revisar con el y verificar si es lo que el cliente pide, siempre y cuando el lo acepte, esta bien.
+-Los errores en requisitos son mas costosos que la validación 
+	-Los errores custan 100 veces mas que el costo de la implementacion de un requisito.
+
