@@ -1,0 +1,5 @@
+	+Cada caso de uso es un requisito funcional
+
+	+El nalist asigna la prioridad a los requisitos
+
+	+
