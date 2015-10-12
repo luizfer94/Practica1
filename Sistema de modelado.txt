@@ -1,5 +1,5 @@
-	+Cada caso de uso es un requisito funcional
+	+ Cada caso de uso es un requisito funcional
 
-	+El nalist asigna la prioridad a los requisitos
+	+ El nalist asigna la prioridad a los requisitos
 
-	+
+	+interacion, estructural, comportamiento, contexto y 
