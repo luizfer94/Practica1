@@ -1,6 +1,7 @@
-Un aso de uso, define un escenario que puede definir un requisito o un conjunto de requisitos
+-Un caso de uso, define un escenario que puede definir un requisito o un conjunto de requisitos
+	con actores y el rol de cada actor en el requerimiento visto
 
-ethnograpia
+-ethnograpia
 es el observar como se trabaja o cuales son los pasos para realizar un proceso y determinar como se lleva acabo.
 
 Como se valida un requisito?
