@@ -1,1 +1,5 @@
 Un caso de uso va a ser especificado en un diagrama basico
+Diagrama de clases:
+Son los objetos o recuadros que engloban las instancias}(objeto) en una familia. (similar a las tablas de los diagramas de un modelo relacional de BD)
+Diagrama de secuencia del sistema:
+Explica las relaciones que tienen las clases.
