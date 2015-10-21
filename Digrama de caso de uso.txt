@@ -1,5 +1,9 @@
 Un caso de uso va a ser especificado en un diagrama basico
+- Es una simulación de la aplicacion de un requisito o requerimiento
 Diagrama de clases:
-Son los objetos o recuadros que engloban las instancias}(objeto) en una familia. (similar a las tablas de los diagramas de un modelo relacional de BD)
+Son los objetos o recuadros que engloban las instancias(objeto) en una familia. (similar a las tablas de los diagramas de un modelo relacional de BD)
+- El objeto principl hereda los atributos a los objetos jerarquicamente menor a ellos
 Diagrama de secuencia del sistema:
 Explica las relaciones que tienen las clases.
+
+Representa la parte dinamica del proceso del sistema
