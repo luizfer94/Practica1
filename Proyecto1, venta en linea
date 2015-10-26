@@ -4,3 +4,16 @@ Definir documento de requisitos (Tema)
 -Prefacio
 -Requisitos funcionales
 -Requisitos no funcionales
+-Actores del sistema
+
+Descripcion:
+Registro de cliente
+Regristro de productos(por si acaso)
+Comprar
+Seleccionar Productos
+Generacion de ticket
+
+
+Buscar
+-Arquitectura del sitema
+-Modelo de datos
